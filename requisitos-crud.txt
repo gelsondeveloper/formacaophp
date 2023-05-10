@@ -1,0 +1,17 @@
+=== Crud básico de clientes ===
+
+Tarefas 
+
+1. Criar banco de dados
+*Tabela de clientes*
+ID,
+NOME campo obrigatorio,
+EMAIL campo obrigatorio,
+DATA_NASCIMENTO colocar como DATE e não obrigatorio,
+TELEFONE não obrigatorio,
+DATA_CRIACAO colocar como datetime e deixar como corrente timestamp
+
+2. Criar página de cadastro do clientes
+3. Criar página de visualização dos clientes
+4. Criar página de exclusão dos clientes
+5. Criar página de edição do cliente.
